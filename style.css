@@ -185,3 +185,17 @@
     align-items: center;
     padding-bottom: 150px;
   }
+
+  @media only screen and (min-width: 320px){
+    #responsive {
+      font-size: 40px;
+      font-weight: 500;
+    }
+
+    #imag{
+      padding-top: 150px;
+    }
+    .end{
+      padding-bottom: 120px;
+    }
+  }
