@@ -199,3 +199,16 @@
       padding-bottom: 120px;
     }
   }
+  @media only screen and (min-width: 321px) and (max-width: 480px) {
+    #responsive {
+      font-size: 30px;
+      font-weight: 700;
+    }
+
+    #imag{
+      padding-top: 150px;
+    }
+    .end{
+      padding-bottom: 120px;
+    }
+  }
